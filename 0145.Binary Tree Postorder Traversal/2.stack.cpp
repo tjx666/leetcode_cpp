@@ -1,6 +1,6 @@
 #include <stack>
 #include <vector>
-#include "../lib/TreeNode.h"
+#include "../lib/BinaryTreeNode.h"
 
 using namespace std;
 

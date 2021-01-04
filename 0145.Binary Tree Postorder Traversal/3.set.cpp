@@ -1,7 +1,7 @@
+#include <set>
 #include <stack>
 #include <vector>
-#include <set>
-#include "../lib/TreeNode.h"
+#include "../lib/BinaryTreeNode.h"
 
 using namespace std;
 
