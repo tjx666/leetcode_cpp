@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "vector": "cpp",
-        "iterator": "cpp"
+        "iterator": "cpp",
+        "queue": "cpp"
     }
 }
