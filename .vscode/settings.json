@@ -2,6 +2,11 @@
     "files.associations": {
         "vector": "cpp",
         "iterator": "cpp",
-        "queue": "cpp"
+        "queue": "cpp",
+        "random": "cpp",
+        "chrono": "cpp",
+        "__mutex_base": "cpp",
+        "__config": "cpp",
+        "mutex": "cpp"
     }
 }
