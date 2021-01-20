@@ -7,6 +7,7 @@
         "chrono": "cpp",
         "__mutex_base": "cpp",
         "__config": "cpp",
-        "mutex": "cpp"
+        "mutex": "cpp",
+        "cstdlib": "cpp"
     }
 }
