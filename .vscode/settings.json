@@ -8,6 +8,9 @@
         "__mutex_base": "cpp",
         "__config": "cpp",
         "mutex": "cpp",
-        "cstdlib": "cpp"
+        "cstdlib": "cpp",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "list": "cpp"
     }
 }
