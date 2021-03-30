@@ -11,6 +11,7 @@
         "cstdlib": "cpp",
         "__split_buffer": "cpp",
         "deque": "cpp",
-        "list": "cpp"
+        "list": "cpp",
+        "algorithm": "cpp"
     }
 }
