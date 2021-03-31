@@ -12,6 +12,7 @@
         "__split_buffer": "cpp",
         "deque": "cpp",
         "list": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "type_traits": "cpp"
     }
 }
