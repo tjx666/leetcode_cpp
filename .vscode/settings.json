@@ -13,6 +13,11 @@
         "deque": "cpp",
         "list": "cpp",
         "algorithm": "cpp",
-        "type_traits": "cpp"
+        "type_traits": "cpp",
+        "set": "cpp",
+        "memory": "cpp",
+        "utility": "cpp",
+        "unordered_set": "cpp",
+        "__tree": "cpp"
     }
 }
